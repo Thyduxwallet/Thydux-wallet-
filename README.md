@@ -1,10 +1,10 @@
-![octicons cover light](https://user-images.githubusercontent.com/54012/138925195-5779c51d-ff8c-4264-a914-e64f4843893d.png#gh-light-mode-only)
-![octicons cover dark](https://user-images.githubusercontent.com/54012/138925203-80e1afa1-ba54-4731-9525-3c41186663f9.png#gh-dark-mode-only)
+![thydux cover light](https://user-images.githubusercontent.com/54012/138925195-5779c51d-ff8c-4264-a914-e64f4843893d.png#gh-light-mode-only)
+![thydux cover dark](https://user-images.githubusercontent.com/54012/138925203-80e1afa1-ba54-4731-9525-3c41186663f9.png#gh-dark-mode-only)
 <br>
 <br>
-<h1 align="center">Primer Octicons</h1>
+<h1 align="center">thydux</h1>
 
-<p align="center">Octicons are a set of SVG icons built by GitHub for GitHub.</p>
+<p align="center">thydux are a set of SVG icons built by GitHub for GitHub.</p>
 
 <p align="center">
   <a aria-label="build status" href="https://github.com/primer/octicons/actions/workflows/ci.yml">
