@@ -1,8 +1,9 @@
-![thydux cover light](https://user-images.githubusercontent.com/54012/138925195-5779c51d-ff8c-4264-a914-e64f4843893d.png#gh-light-mode-only)
-![thydux cover dark](https://user-images.githubusercontent.com/54012/138925203-80e1afa1-ba54-4731-9525-3c41186663f9.png#gh-dark-mode-only)
+<h1 align="center">wallet</h1>
+
+[thydux cover](https://github.com/user-attachments/assets/46182ce3-b97c-4c7e-88f9-78af185fe84a)
+
 <br>
 <br>
-<h1 align="center">thydux</h1>
 
 <p align="center">thydux are a set of SVG icons built by GitHub for GitHub.</p>
 
